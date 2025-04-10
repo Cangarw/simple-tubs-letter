@@ -21,7 +21,6 @@
   to-address: to-address,
   date: date,
   subject: subject,
-
 )
 
 #set text(font: "Nimbus Sans")
