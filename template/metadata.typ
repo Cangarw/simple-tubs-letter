@@ -1,3 +1,8 @@
+/*
+ - SPDX-FileCopyrightText: 2025-2025 Malte Kumlehn
+ - SPDX-License-Identifier: MIT
+*/
+
 #let lang = "de"
 #let tubs-logo = image("assets/figure/tubs/tubs_logo.svg", width: 38%)
 #let institute-logo = image("assets/figure/tubs/institute_logo.jpg", width: 40%) // make sure that the size of this logo fits!
