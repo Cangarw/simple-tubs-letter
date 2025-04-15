@@ -1,4 +1,4 @@
-# A simple letter template for the Technische Universität Braunschweig
+# A simple typst template of the Technische Universität Braunschweig for typst
 
 > This project losely follows the [corporate design](https://www.tu-braunschweig.de/presse/corporate-design) of the Technische Universität Braunschweig. You are welcome to contribute to the project for a better match of the original latex templates.
 
