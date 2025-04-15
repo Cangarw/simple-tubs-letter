@@ -21,7 +21,7 @@
   your-ref: none,
 ) = {
   set document(title: [#subject], author: author)
-  set text(font: "Nimbus Sans", lang: lang)
+  set text(font: "Liberation Sans", lang: lang)
 
   set page(paper: "a4", number-align: right, numbering: "1/1")
 

@@ -5,8 +5,7 @@
 
 #import "metadata.typ": tubs-logo, institute-logo, institute-name, institute-prof, author, phone-nr, fax-nr, email, website, institute-address-header, institute-name-en, to-address, date, subject
 
-#import "@preview/tubs-letter:0.1.0": tubs-letter
-
+#import "@preview/simple-tubs-letter:0.1.0": tubs-letter
 
 #show: tubs-letter.with(
   lang: "en",
@@ -27,8 +26,6 @@
   date: date,
   subject: subject,
 )
-
-#set text(font: "Nimbus Sans")
 
 To whom it may concern,
 #v(1em)

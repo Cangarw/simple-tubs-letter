@@ -1,6 +1,6 @@
 [package]
 name = "simple-tubs-letter"
-version = "0.1.0"
+version = "0.1.1"
 entrypoint = "template.typ"
 authors = ["Malte Kumlehn"]
 license = "GPL-3.0"
