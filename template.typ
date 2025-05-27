@@ -19,9 +19,10 @@
   body,
   our-ref: none,
   your-ref: none,
+  font: "Liberation Sans",
 ) = {
   set document(title: [#subject], author: author)
-  set text(font: "Liberation Sans", lang: lang)
+  set text(font: font, lang: lang)
 
   set page(paper: "a4", number-align: right, numbering: "1/1")
 
