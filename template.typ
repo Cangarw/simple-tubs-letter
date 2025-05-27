@@ -73,7 +73,8 @@
       #if lang == "de" [Verfasst von:] else if lang == "en" [Author:] else [#text(fill: ref)[UKNOWN LANGUAGE]]\
       #author\
       Tel. #phone-nr\
-      Fax #fax-nr\
+      #if fax-nr != none [Fax #fax-nr]\
+      
       #email\
       #website
 
