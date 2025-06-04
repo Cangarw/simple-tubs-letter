@@ -37,7 +37,7 @@ In case you want to contribute, check out the repo into a [typst package directo
 mkdir -p ~/.local/share/typst/packages/local/simple-tubs-letter
 cd ~/.local/share/typst/packages/local/simple-tubs-letter
 git clone https://github.com/Cangarw/simple-tubs-letter.git
-mv simple-tubs-letter 0.1.0
+mv simple-tubs-letter 0.1.2
 ```
 
 ## Licence
